@@ -64,6 +64,7 @@ dependencies:
       - jupyterlab==4.3.4
       - jupyterlab-pygments==0.3.0
       - jupyterlab-server==2.27.3
+      - kagglehub==0.3.6
       - keras==3.7.0
       - kiwisolver==1.4.7
       - libclang==18.1.1
@@ -81,6 +82,7 @@ dependencies:
       - notebook==7.3.2
       - notebook-shim==0.2.4
       - numpy==2.0.2
+      - opencv-python==4.10.0.84
       - opt-einsum==3.4.0
       - optree==0.13.1
       - overrides==7.7.0
@@ -118,6 +120,7 @@ dependencies:
       - terminado==0.18.1
       - threadpoolctl==3.5.0
       - tinycss2==1.4.0
+      - tqdm==4.67.1
       - types-python-dateutil==2.9.0.20241206
       - typing-extensions==4.12.2
       - tzdata==2024.2
